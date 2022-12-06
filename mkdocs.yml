@@ -1,0 +1,39 @@
+# Project Settings
+markdown_extensions:
+  - admonition
+
+
+# Site settings - effect what is shown on pages throughout the project
+site_name: VLS Board Documentation
+copyright: Copyright &copy; 2022 - 2022
+
+
+# Site look and feel
+theme:
+  name: material
+  font:
+    text: Roboto
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+      primary: 'deep purple'
+      accent: 'deep purple'
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+  logo: images/valley_logo_small.png
+
+  features:
+    - navigation.instant    # Enables instant loading
+    - navigation.tracking   # Address bar URL automatically updated with active anchor highlighted in table of contents
+    - navigation.tabs       # Renders top-level sections in menu layer below header
+    - navigation.top        # Show back-to-top button
