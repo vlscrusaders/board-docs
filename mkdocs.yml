@@ -1,6 +1,30 @@
 # Project Settings
+nav:
+  - Home: 'index.md'
+  - By-Laws:
+    - Preamble: 'by-laws/preamble.md'
+    - Articles:
+      - I. Name: 'by-laws/name.md'
+      - II. Affiliation: 'by-laws/affiliation.md'
+      - III. Doctrinal Standards: 'by-laws/doctrinal_standards.md'
+      - IV. Purpose: 'by-laws/purpose.md'
+      - V. Definitions: 'by-laws/definitions.md'
+      - VI. Association Membership: 'by-laws/association_membership.md'
+      - VII. Association Funding: 'by-laws/association_funding.md'
+      - VIII. Delegate Assembly: 'by-laws/delegate_assembly.md'
+      - IX. Board of Directors: 'by-laws/board_of_directors.md'
+      - X. Officers: 'by-laws/officers.md'
+      - XI. Committees: 'by-laws/committees.md'
+      - XII. Miscellaneous Provisions: 'by-laws/miscellaneous_provisions.md'
+      - XIII. Ammendment: 'by-laws/ammendment.md'
+      - XIV. Dissolution: 'by-laws/dissolution.md'
+
 markdown_extensions:
   - admonition
+  - footnotes
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
 
 
 # Site settings - effect what is shown on pages throughout the project
@@ -37,3 +61,4 @@ theme:
     - navigation.tracking   # Address bar URL automatically updated with active anchor highlighted in table of contents
     - navigation.tabs       # Renders top-level sections in menu layer below header
     - navigation.top        # Show back-to-top button
+    - navigation.expand     # Expands all colapsible sections in left sidebar
