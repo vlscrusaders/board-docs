@@ -4,8 +4,8 @@
 2. Member congregation shall all refer to any Lutheran congregation:
 
     1. Whose national bodies; confession and practice are consistent with the doctrinal standards set forth in these By-laws, 
-    2. Which accepts the Association’s doctrinal standards in Article III, purpose in Article IV, and affiliation in Article II of these By-laws, 
-    3. Which has been accepted as a Member congregation by the Delegate Assembly, 
+    2. Which accepts the Association’s doctrinal standards in [Article III](doctrinal_standards.md), purpose in [Article IV](purpose.md), and affiliation in [Article II](affiliation.md) of these By-laws, 
+    3. Which has been accepted as a Member congregation by the [Delegate Assembly](delegate_assembly.md), 
     4. Which faithfully remits dues and its share of the Association’s annual budget to the Association,
     5. Which appoints Member Delegates.
 
@@ -25,9 +25,9 @@
     4. Which Appoints a non-voting Delegate
    
 5. Association shall refer to the Eastern Iowa Lutheran High School Association. 
-6. Delegate and Delegates shall all refer to and mean Delegates from the Member (Member #. Delegates), Affiliate (Affiliate Delegates), and Associate (Associate Delegates) congregations.
+6. Delegate and Delegates shall all refer to and mean Delegates from the Member (Member Delegates), Affiliate (Affiliate Delegates), and Associate (Associate Delegates) congregations.
 7. Membership of the corporation shall refer to Member Congregations.
-8. Delegate Assembly and Assembly shall all refer to any meeting of the Delegates.
-9. Board of Directors and “Board” shall all refer to the governing body of the Association and the Association schools.
-10. Director and “Directors” shall all refer to members of the Board of Directors.
-11. Officer and “Officers” shall refer to all the officers elected or appointed by the Board of Directors. 
+8. [Delegate Assembly](delegate_assembly.md) and Assembly shall all refer to any meeting of the Delegates.
+9. [Board of Directors](board_of_directors.md) and “Board” shall all refer to the governing body of the Association and the Association schools.
+10. Director and “Directors” shall all refer to members of the [Board of Directors](board_of_directors.md).
+11. Officer and “Officers” shall refer to all the [officers](officers.md) elected or appointed by the [Board of Directors](board_of_directors.md). 

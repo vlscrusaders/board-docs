@@ -70,11 +70,12 @@ It shall be the duty of the Board Governance Committee to announce By February 1
 
 In addition to the principles laid down in Scripture, should it become necessary, Robert’s Rules of Order will prevail at meetings.
 
-1. The agenda for the Annual meeting will include:
-2. Opening Devotions – word and prayer
-3. Presentation of the Budget
-4. Appointment/certification of Delegates
-5. Board Elections of At-Large Members
-6. State of School Annual Report
-7. Ratification of Dues Structure
-8. Accept New Congregations into membership
+The agenda for the Annual meeting will include:
+
+1. Opening Devotions – word and prayer
+2. Presentation of the Budget
+3. Appointment/certification of Delegates
+4. Board Elections of At-Large Members
+5. State of School Annual Report
+6. Ratification of Dues Structure
+7. Accept New Congregations into membership

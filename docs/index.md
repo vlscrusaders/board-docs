@@ -3,6 +3,25 @@ title: Board Documentation
 ᴴₒᴴₒᴴₒ: true
 ---
 
+<div class="grid cards" markdown>
+
+- __About Us__ who are we
+- __By-Laws__ How we govern the mission
+- __Policy__ How we guide the mission
+- __Procedure__ How we perform the mission
+- __Minutes__ What w've done for the mission
+
+</div>
+
+<!-- <div class="grid cards" markdown>
+
+- :fontawesome-brands-html5: __HTML__ for content and structure
+- :fontawesome-brands-js: __JavaScript__ for interactivity
+- :fontawesome-brands-css3: __CSS__ for text running out of boxes
+- :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
+
+</div> -->
+
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands

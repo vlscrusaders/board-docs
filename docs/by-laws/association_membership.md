@@ -3,7 +3,7 @@
 
 ## Section 1: Member Congregations
 
-Congregations, which comply with the provisions of Article V, Section 2 may apply to and may be recognized and admitted as a Member Congregation by the Delegate Assembly.
+Congregations, which comply with the provisions of [Article V](definitions.md), Section 2 may apply to and may be recognized and admitted as a Member Congregation by the Delegate Assembly.
 
 ### Function of Member Congregations
 
@@ -14,7 +14,7 @@ Congregations, which comply with the provisions of Article V, Section 2 may appl
 
 ## Section 2: Affiliate Congregations
 
-Affiliate Lutheran congregations, as defined in Article V, Section 3 may apply to and may be recognized and admitted as an Affiliate Congregation by the Delegate Assembly.
+Affiliate Lutheran congregations, as defined in [Article V](definitions.md), Section 3 may apply to and may be recognized and admitted as an Affiliate Congregation by the Delegate Assembly.
 
 ### Function of Affiliate Congregation(s)
 
@@ -23,7 +23,7 @@ Affiliate Lutheran congregations, as defined in Article V, Section 3 may apply t
 
 ## Section 3: Associate Congregations
 
-Associate Congregations, as defined in Article V, Section 4 may apply to and may be recognized and admitted as an Associate Congregation by the Delegate Assembly.
+Associate Congregations, as defined in [Article V](definitions.md), Section 4 may apply to and may be recognized and admitted as an Associate Congregation by the Delegate Assembly.
 
 ### Function of Associate Congregation(s)
 
