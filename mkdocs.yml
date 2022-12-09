@@ -5,25 +5,34 @@ nav:
     - Board Members: 'about-us/board-members.md'
   - By-Laws:
     - Preamble: 'by-laws/preamble.md'
-    - Articles:
-      - I. Name: 'by-laws/name.md'
-      - II. Affiliation: 'by-laws/affiliation.md'
-      - III. Doctrinal Standards: 'by-laws/doctrinal_standards.md'
-      - IV. Purpose: 'by-laws/purpose.md'
-      - V. Definitions: 'by-laws/definitions.md'
-      - VI. Association Membership: 'by-laws/association_membership.md'
-      - VII. Association Funding: 'by-laws/association_funding.md'
-      - VIII. Delegate Assembly: 'by-laws/delegate_assembly.md'
-      - IX. Board of Directors: 'by-laws/board_of_directors.md'
-      - X. Officers: 'by-laws/officers.md'
-      - XI. Committees: 'by-laws/committees.md'
-      - XII. Miscellaneous Provisions: 'by-laws/miscellaneous_provisions.md'
-      - XIII. Ammendment: 'by-laws/ammendment.md'
-      - XIV. Dissolution: 'by-laws/dissolution.md'
-  - Board of Directors:
-    - Board Members: 'board-policy/board-of-directors/board-members.md'
-    - Board Officers: 'board-policy/board-of-directors/officers-of-the-board.md'
-    - Term of Office: 'board-policy/board-of-directors/term-of-office.md'
+    - I. Name: 'by-laws/name.md'
+    - II. Affiliation: 'by-laws/affiliation.md'
+    - III. Doctrinal Standards: 'by-laws/doctrinal_standards.md'
+    - IV. Purpose: 'by-laws/purpose.md'
+    - V. Definitions: 'by-laws/definitions.md'
+    - VI. Association Membership: 'by-laws/association_membership.md'
+    - VII. Association Funding: 'by-laws/association_funding.md'
+    - VIII. Delegate Assembly: 'by-laws/delegate_assembly.md'
+    - IX. Board of Directors: 'by-laws/board_of_directors.md'
+    - X. Officers: 'by-laws/officers.md'
+    - XI. Committees: 'by-laws/committees.md'
+    - XII. Miscellaneous Provisions: 'by-laws/miscellaneous_provisions.md'
+    - XIII. Ammendment: 'by-laws/ammendment.md'
+    - XIV. Dissolution: 'by-laws/dissolution.md'
+  - Board Policy:
+    - Board of Directors:
+      - Members: 'board-policy/board-of-directors/board-members.md'
+      - Officers: 'board-policy/board-of-directors/officers-of-the-board.md'
+      - Term of Office: 'board-policy/board-of-directors/term-of-office.md'
+    - Responsibilities of Directors:
+      - Powers: 'board-policy/responsibilities-of-directors/powers-of-board.md'
+      - Responsibilities: 'board-policy/responsibilities-of-directors/responsibilities-of-board.md'
+      - Duties: 'board-policy/responsibilities-of-directors/duties-of-board.md'
+    - Election of Directors:
+      - Qualifications: 'board-policy/election-of-directors/qualifications-of-directors.md'
+      - Election: 'board-policy/election-of-directors/election-of-directors.md'
+      - Vacancies: 'board-policy/election-of-directors/vacancies.md'
+
 
 markdown_extensions:
   - admonition
@@ -38,8 +47,8 @@ extra_css:
   - stylesheets/extra.css
 
 # Site settings - effect what is shown on pages throughout the project
-site_name: VLS Board Documentation
-copyright: Copyright &copy; 2022 - 2022
+site_name: VLS Board of Directors
+copyright: Copyright &copy; 2022 - 2023
 
 
 # Site look and feel
@@ -72,4 +81,6 @@ theme:
     - navigation.tracking   # Address bar URL automatically updated with active anchor highlighted in table of contents
     - navigation.tabs       # Renders top-level sections in menu layer below header
     - navigation.top        # Show back-to-top button
-    - navigation.expand     # Expands all colapsible sections in left sidebar
+    # - navigation.expand     # Expands all colapsible sections in left sidebar
+    - navigation.sections
+    # - navigation.indexes
