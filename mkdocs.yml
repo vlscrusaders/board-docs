@@ -21,18 +21,64 @@ nav:
     - XIV. Dissolution: 'by-laws/dissolution.md'
   - Board Policy:
     - Board of Directors:
-      - Members: 'board-policy/board-of-directors/board-members.md'
-      - Officers: 'board-policy/board-of-directors/officers-of-the-board.md'
-      - Term of Office: 'board-policy/board-of-directors/term-of-office.md'
-    - Responsibilities of Directors:
+      - Board of Directors: 'board-policy/board-of-directors/index.md'
+    - Responsibilities:
       - Powers: 'board-policy/responsibilities-of-directors/powers-of-board.md'
       - Responsibilities: 'board-policy/responsibilities-of-directors/responsibilities-of-board.md'
       - Duties: 'board-policy/responsibilities-of-directors/duties-of-board.md'
-    - Election of Directors:
+    - Elections:
       - Qualifications: 'board-policy/election-of-directors/qualifications-of-directors.md'
       - Election: 'board-policy/election-of-directors/election-of-directors.md'
       - Vacancies: 'board-policy/election-of-directors/vacancies.md'
-
+    - Officer Duties:
+      - Chairperson: 'board-policy/officers-of-board/chairperson.md'
+      - Vice Chairperson: 'board-policy/officers-of-board/vice-chairperson.md'
+      - Secretary: 'board-policy/officers-of-board/secretary.md'
+      - Treasurer:  'board-policy/officers-of-board/treasurer.md'
+      - Consultant: 'board-policy/officers-of-board/consultant.md'
+      - Chaplain: 'board-policy/officers-of-board/chaplain.md'
+    - Committees:
+      - Standing:
+        - Standing: 'board-policy/committees-of-board/standing-committee/index.md'
+        - Student Recruitment: 'board-policy/committees-of-board/standing-committee/student-recruitment-committee.md'
+      - Ad Hoc:
+        - Ad Hoc: 'board-policy/committees-of-board/ad-hoc-committee/index.md'
+        - Staffing: 'board-policy/committees-of-board/ad-hoc-committee/ad-hoc-staffing-committee.md'
+        - Building: 'board-policy/committees-of-board/ad-hoc-committee/ad-hoc-building-committee.md'
+        - Student Recruitment: 'board-policy/committees-of-board/ad-hoc-committee/ad-hoc-student-recruitment-committee.md'
+        - Merit: 'board-policy/committees-of-board/ad-hoc-committee/ad-hoc-merit-scholorship-committee.md'
+    - Policy:
+      - Development: 'board-policy/policy/development.md'
+      - Adoption: 'board-policy/policy/adoption.md'
+      - Review:
+        - Review: 'board-policy/policy/review-and-revision/index.md'
+        - Plan for Revision: 'board-policy/policy/review-and-revision/plan-for-revision.md'
+      - Dissemination: 'board-policy/policy/dissemination.md'
+      - Suspension: 'board-policy/policy/suspension.md'
+      - In Absence: 'board-policy/policy/in-absence.md'
+    - Board Meetings:
+      - Regular Meetings: 'board-policy/board-meetings/regular-meeting.md'
+      - Special Meetings: 'board-policy/board-meetings/special-meeting.md'
+      - Work Sessions: 'board-policy/board-meetings/work-sessions.md'
+      - Meeting Notice: 'board-policy/board-meetings/meeting-notice.md'
+      - Quorum: 'board-policy/board-meetings/quorum.md'
+      - Rules of Order: 'board-policy/board-meetings/rules-of-order.md'
+      - Meeting Agenda: 'board-policy/board-meetings/meeting-agenda.md'
+      - Open Meetings: 'board-policy/board-meetings/open-meetings.md'
+      - Closed Sessions: 'board-policy/board-meetings/closed-sessions.md'
+    - Association Participation:
+      - Association Participation: 'board-policy/association-member-participation/index.md'
+      - General Complaints: 'board-policy/association-member-participation/general-complaints.md'
+      - Whistle Blower: 'board-policy/association-member-participation/whistle-blower.md'
+    - Public Hearings:
+      - Public Hearings: 'board-policy/public-hearings/index.md'
+    - Board Records:
+      - Board Records: 'board-policy/board-records/index.md'
+      - Board Minutes: 'board-policy/board-records/board-minutes.md'
+    - Retention Policy:
+      - Retention Policy: 'board-policy/retention-policy/index.md'
+    - Gifts to Directors:
+      - Gifts to Directors: 'board-policy/gifts-to-directors/index.md'
 
 markdown_extensions:
   - admonition
@@ -45,6 +91,10 @@ markdown_extensions:
 
 extra_css:
   - stylesheets/extra.css
+
+extra:
+  version:
+    provider: mike
 
 # Site settings - effect what is shown on pages throughout the project
 site_name: VLS Board of Directors
@@ -82,5 +132,5 @@ theme:
     - navigation.tabs       # Renders top-level sections in menu layer below header
     - navigation.top        # Show back-to-top button
     # - navigation.expand     # Expands all colapsible sections in left sidebar
-    - navigation.sections
-    # - navigation.indexes
+    # - navigation.sections
+    - navigation.indexes
