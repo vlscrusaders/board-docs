@@ -129,7 +129,7 @@ theme:
   features:
     - navigation.instant    # Enables instant loading
     - navigation.tracking   # Address bar URL automatically updated with active anchor highlighted in table of contents
-    - navigation.tabs       # Renders top-level sections in menu layer below header
+    # - navigation.tabs       # Renders top-level sections in menu layer below header
     - navigation.top        # Show back-to-top button
     # - navigation.expand     # Expands all colapsible sections in left sidebar
     # - navigation.sections

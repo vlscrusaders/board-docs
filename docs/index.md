@@ -12,3 +12,14 @@ title: Board Documentation
 - __Minutes__ What w've done for the mission
 
 </div>
+
+**By-Laws** - How the organization must be goverened
+
+**Policy** - Defines that something must be done, the intent of management
+  - Department mission
+  - Data ownership
+  - Delegation of Authority
+
+**Standard** - Tools means and methods by which we are going to enact the policy
+
+**Procedure** - How to go about doing theses things
