@@ -1,0 +1,16 @@
+.md-typeset {
+  font-size: 0.75rem;
+  line-height: 1.6
+}
+
+.md-typeset table:not([class]) th {
+  padding: .7em 1.25em;
+}
+
+.md-typeset table:not([class]) td {
+  padding: .7em 1.25em;
+}
+
+.md-typeset table:not([class]) thead {
+  background-color: rgb(245, 234, 255);
+}
