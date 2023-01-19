@@ -1,6 +1,6 @@
 ---
 title: Board Documentation
-ᴴₒᴴₒᴴₒ: true
+# ᴴₒᴴₒᴴₒ: true
 ---
 
 <div class="grid cards" markdown>

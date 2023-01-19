@@ -3,6 +3,7 @@ nav:
   - Home: 'index.md'
   - About Us:
     - Board Members: 'about-us/board-members.md'
+    - Meeting Info: 'about-us/meeting-info.md'
   - By-Laws:
     - Preamble: 'by-laws/preamble.md'
     - I. Name: 'by-laws/name.md'
@@ -79,6 +80,8 @@ nav:
       - Retention Policy: 'board-policy/retention-policy/index.md'
     - Gifts to Directors:
       - Gifts to Directors: 'board-policy/gifts-to-directors/index.md'
+  - Onboarding:
+    - Checklist: 'onboarding/checklist.md'
 
 markdown_extensions:
   - admonition
@@ -86,6 +89,12 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.mark
   - pymdownx.tilde
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.details
   - attr_list
   - md_in_html
 
@@ -112,7 +121,7 @@ theme:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       toggle:
-        icon: material/brightness-7 
+        icon: material/brightness-7
         name: Switch to dark mode
       primary: 'deep purple'
       accent: 'deep purple'
@@ -134,3 +143,4 @@ theme:
     # - navigation.expand     # Expands all colapsible sections in left sidebar
     # - navigation.sections
     - navigation.indexes
+    - navigation.footer
