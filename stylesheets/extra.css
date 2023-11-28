@@ -1,28 +1,18 @@
+./* [data-md-color-scheme="deere"] {
+  --md-primary-fg-color:        #00690e;
+  --md-primary-fg-color--light: #ECB7B7;
+  --md-primary-fg-color--dark:  #90030C;
+  --md-default-fg-color--light: #000000D0;
+} */
+
 .md-grid {
   margin-left: auto;
   margin-right: auto;
-  max-width: 65rem;
+  max-width: 1440px;
 }
 
-.md-sidebar {
-  align-self: flex-start;
-  flex-shrink: 0;
-  padding: 1.2rem 0;
-  position: sticky;
-  top: 2.4rem;
-  width: 12.1rem;
-}
-
-.md-content {
-  flex-grow: 1;
-  min-width: 0;
-  /* padding-left: 1rem;*/
-  padding-right: 1rem;
-}
-
-.md-typeset {
-  font-size: 0.75rem;
-  line-height: 1.6
+.md-typeset table:not([class]) thead {
+  background-color: rgb(235, 235, 235);
 }
 
 .md-typeset table:not([class]) th {
@@ -31,56 +21,4 @@
 
 .md-typeset table:not([class]) td {
   padding: .7em 1.25em;
-}
-
-.md-typeset table:not([class]) thead {
-  background-color: rgb(245, 234, 255);
-}
-
-/* Float four columns side by side */
-.column {
-  float: left;
-  width: 25%;
-  padding: 0 10px;
-}
-
-/* Remove extra left and right margins, due to padding in columns */
-.row {
-  margin: 0 -5px;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-  padding: 0 0 16px 0;
-}
-
-/* Style the counter cards */
-.card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
-  padding: 16px;
-  text-align: center;
-  /* background-color: #f1f1f1; */
-  border-radius: 5px; /* 5px rounded corners */
-}
-
-/* On mouse-over, add a deeper shadow */
-.card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-}
-
-/* Add some padding inside the card container */
-.container {
-  padding: 2px 16px;
-}
-
-/* Responsive columns - one column layout (vertical) on small screens */
-@media screen and (max-width: 600px) {
-  .column {
-    width: 100%;
-    display: block;
-    margin-bottom: 20px;
-  }
 }
