@@ -1,6 +1,18 @@
-.md-typeset {
-  font-size: 0.75rem;
-  line-height: 1.6
+./* [data-md-color-scheme="deere"] {
+  --md-primary-fg-color:        #00690e;
+  --md-primary-fg-color--light: #ECB7B7;
+  --md-primary-fg-color--dark:  #90030C;
+  --md-default-fg-color--light: #000000D0;
+} */
+
+.md-grid {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1440px;
+}
+
+.md-typeset table:not([class]) thead {
+  background-color: rgb(235, 235, 235);
 }
 
 .md-typeset table:not([class]) th {
@@ -9,8 +21,4 @@
 
 .md-typeset table:not([class]) td {
   padding: .7em 1.25em;
-}
-
-.md-typeset table:not([class]) thead {
-  background-color: rgb(245, 234, 255);
 }
